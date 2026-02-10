@@ -108,6 +108,9 @@ Cosine Similarity Search
 Top Relevant Document Chunks Returned  
 
 ---
+## System Architecture
+
+![Architecture Diagram](architecture.png)
 
 ## 📂 Project Structure
 
