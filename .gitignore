@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model caches
+hf_cache/
+torch_cache/
+
+# Temp folders
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
