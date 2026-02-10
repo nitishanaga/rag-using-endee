@@ -30,6 +30,17 @@ This project is architected to integrate with **Endee**, a high-performance C++ 
 
 ---
 
+## RAG Workflow
+
+This system implements a complete Retrieval-Augmented Generation pipeline:
+
+1. Document upload
+2. Text chunking
+3. Embedding generation
+4. Vector similarity retrieval
+5. Context-based answer generation
+
+
 ## 🧠 Why Endee?
 
 Endee is a high-performance C++ vector database designed for scalable embedding storage and retrieval.
